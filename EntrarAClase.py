@@ -1,8 +1,3 @@
-#!pip install webbrowser
-#!pip install datetime
-#!pip install pyautogui
-#!pip install pickle
-
 try:
     import webbrowser, datetime, time
     import pyautogui as pag
